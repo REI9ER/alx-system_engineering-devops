@@ -1,3 +1,3 @@
 #!/bin/bash
-ls -L
-ls -lna
+ls -al
+
